@@ -1,52 +1,31 @@
-# Project Phoenix - Week 1
+# Week 1
 
-## Focus
-
-Setup and Restart
-
-## Why I'm Doing This
-
-* Increase income potential
-* Build a career I can do long term
-* Use the CS degree I already earned
-* Create options beyond restaurant management
-* Stop wondering "what if"
+## Goal
+Setup and restart.
 
 ## Completed
+- Installed/updated Node.js
+- Verified Git
+- Verified WebStorm
+- Created GitHub repository
+- Connected local folder to GitHub
+- Completed Day 1 JavaScript review
+- Completed Day 2 Flex earnings calculator
 
-* Created Project Phoenix workspace
-* Created Notes, Practice, Projects, Resume, and Resources folders
-* Updated Node.js to v24.16.0
-* Verified npm
-* Verified Git
-* Verified VS Code
-* Verified GitHub account
-* Created GitHub repository
-* Cloned repository locally
-* Created first JavaScript file
-* Made first commit
-* Pushed first commit to GitHub
+## What I Remember
+- Variables
+- Arrays
+- Loops
+- Functions
+- Objects
 
-## Time Spent
+## What Feels Rusty
+- Git
+- Modern JavaScript syntax
+- Project structure
 
-Approximately _____ hours
-
-## What Went Well
-
-* Setup was easier than expected
-* Git and GitHub came back quickly
-* Environment is ready for development
-
-## What Felt Rusty
-
-* ---
-* ---
-* ---
-
-## Week 2 Goals
-
-* Refresh JavaScript fundamentals
-* Practice arrays, loops, functions, and objects
-* Complete several coding exercises
-* Build a small console application
-* Continue GitHub activity
+## Next Steps
+- Continue JavaScript refresh
+- Practice user input
+- Practice objects and arrays
+- Build first small project
