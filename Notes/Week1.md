@@ -1,131 +1,127 @@
-Project Phoenix - Week 1 Progress Review
-Day 1: JavaScript Fundamentals
-What You Did Well
+# Week 1 - Setup and Restart
 
-✅ Understood variables pretty quickly
+## Goal
 
-✅ Connected programming concepts to real-world examples (Flex pay calculator)
+Rebuild my software development foundation and establish a consistent learning routine.
 
-✅ Asked "why" questions instead of just accepting code
+## Completed
 
-✅ Didn't get stuck on syntax perfection
+* Updated Node.js to v24.16.0
+* Verified npm installation
+* Verified Git installation
+* Switched from VS Code to WebStorm
+* Created and configured GitHub account
+* Created Project Phoenix repository
+* Connected local project to GitHub
+* Learned the basic Git workflow:
 
-What Needs Work
+  * git status
+  * git add .
+  * git commit
+  * git push
 
-⚠️ Sometimes focus on exact syntax before understanding the concept
+## Day 1
 
-⚠️ Need more repetition with const vs let
+### Accomplishments
 
-⚠️ Occasionally try to memorize instead of understanding
+* Reviewed JavaScript fundamentals
+* Practiced variables, arrays, loops, functions, and objects
+* Confirmed that I remember more JavaScript than I expected
 
-Day 2: Loops & Validation
-What You Did Well
+### What I Did Well
 
-✅ Understood the purpose of input validation immediately
+* Broke problems into smaller functions
+* Remembered core programming concepts without relying heavily on references
+* Stayed focused on solving problems rather than memorizing syntax
 
-✅ Recognized why bad user input breaks programs
+### What I Need to Work On
 
-✅ Followed loop logic better than many beginners
+* Confidence in my programming abilities
+* Remembering modern JavaScript methods
+* Becoming more comfortable with Git
 
-✅ Built something practical instead of a toy example
+## Day 2
 
-What Needs Work
+### Accomplishments
 
-⚠️ Still have to mentally trace loops step-by-step
+* Built a Flex earnings calculator
+* Practiced calculations, functions, and formatted output
 
-⚠️ Sometimes lose track of when a loop exits
+### What I Did Well
 
-⚠️ Need more practice visualizing program flow
+* Applied programming concepts to a real-world problem
+* Organized code into reusable functions
 
-Example:
+### What I Need to Work On
 
-while(loop){
-   ...
-}
+* Thinking about edge cases
+* Improving function design and naming
 
-You understand what it does.
+## Day 3
 
-You don't yet instantly "see" how execution moves through it.
+### Accomplishments
 
-Day 3: Functions & Program Structure
-What You Did Well
+* Learned how to accept user input in Node.js
+* Implemented validation and error handling
+* Used async/await with readline
 
-✅ Started recognizing repeated code
+### What I Did Well
 
-✅ Understood the value of helper functions
+* Researched documentation independently
+* Solved problems without relying on complete solutions
 
-✅ Read existing code without immediately freezing
+### What I Need to Work On
 
-✅ Followed a larger file than Day 1
+* Data validation
+* Reducing repeated code
+* Writing more reusable functions
 
-✅ Began thinking in chunks rather than individual lines
+## Day 4
 
-What Needs Work
+### Accomplishments
 
-⚠️ Scope is still fuzzy
+* Built a video game character manager
+* Worked with arrays of objects
+* Calculated averages and identified records within a dataset
 
-⚠️ Sometimes see code as individual instructions instead of grouped systems
+### What I Did Well
 
-⚠️ Need more confidence modifying existing code
+* Organized code into clear functions
+* Worked comfortably with objects and arrays
 
-Right now:
+### What I Need to Work On
 
-Reading code = pretty good
-Changing code = decent
-Creating code from scratch = still developing
+* Consistent naming conventions
+* Handling unusual edge cases
 
-Which is completely normal.
+## Day 5
 
-Technical Skills Assessment
-Skill	Rating
-Variables	8/10
-Conditionals	7/10
-User Input	8/10
-Functions	6/10
-Loops	6/10
-Validation	7/10
-Debugging	5/10
-Reading Code	7/10
-Writing From Scratch	5/10
-Biggest Strength
+### Accomplishments
 
-You naturally think about practical applications.
+* Extended the character manager
+* Implemented filtering, sorting, aggregation, and reporting
+* Completed all assignment requirements
 
-A lot of new programmers ask:
+### What I Did Well
 
-"What does this do?"
+* Analyzed data in multiple ways
+* Used modern array methods
+* Structured larger programs more effectively
 
-You tend to ask:
+### What I Need to Work On
 
-"How would I use this for something useful?"
+* Program design decisions
+* Understanding side effects when modifying data
+* Continuing to improve code readability
 
-That's actually a very manager-minded way of learning development.
+## Biggest Lesson This Week
 
-Biggest Weakness
+I have not forgotten how to program. I am rusty, but the core concepts are still there. My biggest challenge is rebuilding consistency and confidence, not relearning programming from scratch.
 
-You sometimes underestimate what you've learned.
+## Goals for Week 2
 
-A pattern I've noticed:
-
-Learn a concept.
-Successfully use it.
-Immediately focus on what you don't know yet.
-
-That keeps you moving forward, but it can make progress feel invisible.
-
-Overall Week 1 Grade
-
-B+
-
-Not because the code is perfect.
-
-Because you:
-
-Showed up consistently.
-Wrote actual code.
-Worked through confusion.
-Didn't quit when things felt rusty.
-
-For someone with a CS degree who has been away from coding for a while, this is exactly where I'd want you at the end of Week 1.
-
-The next big milestone is when we start using arrays. That's usually the moment code starts feeling less like calculator exercises and more like actual software.
+* Continue strengthening JavaScript fundamentals
+* Improve problem-solving skills
+* Become more comfortable with arrays, objects, and data manipulation
+* Continue using Git as part of my normal workflow
+* Maintain consistent daily progress
