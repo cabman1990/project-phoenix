@@ -1,127 +1,113 @@
-# Week 1 - Setup and Restart
+# Week 1 Summary - Setup and Restart
 
-## Goal
+## Week Objective
 
-Rebuild my software development foundation and establish a consistent learning routine.
+Rebuild my development environment, refresh JavaScript fundamentals, and establish a consistent Project Phoenix workflow.
 
-## Completed
+## Accomplishments
+
+### Environment Setup
 
 * Updated Node.js to v24.16.0
 * Verified npm installation
 * Verified Git installation
-* Switched from VS Code to WebStorm
+* Switched development environment from VS Code to WebStorm
 * Created and configured GitHub account
 * Created Project Phoenix repository
-* Connected local project to GitHub
-* Learned the basic Git workflow:
+* Successfully connected local project to GitHub
+* Learned and practiced the Git workflow:
 
   * git status
   * git add .
   * git commit
   * git push
 
-## Day 1
+### JavaScript Review
 
-### Accomplishments
+Reviewed and practiced:
 
-* Reviewed JavaScript fundamentals
-* Practiced variables, arrays, loops, functions, and objects
-* Confirmed that I remember more JavaScript than I expected
+* Variables
+* Arrays
+* Objects
+* Functions
+* Loops
+* Basic calculations
+* Console output
 
-### What I Did Well
+### Day 3 - User Input
 
-* Broke problems into smaller functions
-* Remembered core programming concepts without relying heavily on references
-* Stayed focused on solving problems rather than memorizing syntax
+Learned:
 
-### What I Need to Work On
+* Node.js readline
+* Async/await basics
+* User input handling
+* Input validation
+* Error handling
 
-* Confidence in my programming abilities
-* Remembering modern JavaScript methods
-* Becoming more comfortable with Git
+### Day 4 - Character Manager
 
-## Day 2
+Built a character management program that:
 
-### Accomplishments
+* Stored data using arrays of objects
+* Calculated averages
+* Identified highest and lowest values
+* Generated reports from data
 
-* Built a Flex earnings calculator
-* Practiced calculations, functions, and formatted output
+### Day 5 - Character Manager v2
 
-### What I Did Well
+Expanded the project to include:
 
-* Applied programming concepts to a real-world problem
-* Organized code into reusable functions
+* Filtering
+* Sorting
+* Aggregation
+* Class breakdown reports
+* More advanced data analysis
 
-### What I Need to Work On
+### Week 1 Mini-Project
 
-* Thinking about edge cases
-* Improving function design and naming
+Completed the Library Catalog Analyzer.
 
-## Day 3
+Project demonstrated:
 
-### Accomplishments
+* Arrays
+* Objects
+* Functions
+* Filtering
+* Sorting
+* Aggregation
+* Program organization
+* Documentation
+* Multi-report data analysis
 
-* Learned how to accept user input in Node.js
-* Implemented validation and error handling
-* Used async/await with readline
+Final Grade: A (96/100)
 
-### What I Did Well
+## What I Did Well
 
-* Researched documentation independently
-* Solved problems without relying on complete solutions
+* Consistently coded every day.
+* Solved problems without relying on complete solutions.
+* Became comfortable using Git.
+* Broke larger problems into smaller functions.
+* Wrote increasingly organized and maintainable code.
+* Successfully applied concepts to new datasets rather than copying previous assignments.
 
-### What I Need to Work On
+## What I Need to Improve
 
-* Data validation
-* Reducing repeated code
-* Writing more reusable functions
+* Confidence in my programming abilities.
+* Consistent naming conventions.
+* Thinking through edge cases before writing code.
+* Reducing repetitive code.
+* Making design decisions independently before looking for help.
 
-## Day 4
+## Biggest Lesson Learned
 
-### Accomplishments
+I have not forgotten how to program.
 
-* Built a video game character manager
-* Worked with arrays of objects
-* Calculated averages and identified records within a dataset
+Most of the core concepts from my Computer Science degree are still there. The challenge is rebuilding consistency, confidence, and problem-solving habits rather than relearning programming from scratch.
 
-### What I Did Well
+## Week 2 Goals
 
-* Organized code into clear functions
-* Worked comfortably with objects and arrays
-
-### What I Need to Work On
-
-* Consistent naming conventions
-* Handling unusual edge cases
-
-## Day 5
-
-### Accomplishments
-
-* Extended the character manager
-* Implemented filtering, sorting, aggregation, and reporting
-* Completed all assignment requirements
-
-### What I Did Well
-
-* Analyzed data in multiple ways
-* Used modern array methods
-* Structured larger programs more effectively
-
-### What I Need to Work On
-
-* Program design decisions
-* Understanding side effects when modifying data
-* Continuing to improve code readability
-
-## Biggest Lesson This Week
-
-I have not forgotten how to program. I am rusty, but the core concepts are still there. My biggest challenge is rebuilding consistency and confidence, not relearning programming from scratch.
-
-## Goals for Week 2
-
-* Continue strengthening JavaScript fundamentals
-* Improve problem-solving skills
-* Become more comfortable with arrays, objects, and data manipulation
-* Continue using Git as part of my normal workflow
-* Maintain consistent daily progress
+* Learn modern JavaScript features.
+* Become more comfortable with array methods.
+* Improve problem-solving without relying on examples.
+* Continue using Git for every assignment.
+* Complete a Week 2 mini-project and push it to GitHub.
