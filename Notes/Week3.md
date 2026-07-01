@@ -1,50 +1,51 @@
 Week 3 - JavaScript Objects & Problem Solving
-Day 1 - Object Modeling
+Day 2 - Searching & Filtering Object Collections
 What I Learned
-I practiced designing consistent object structures instead of only using objects.
-I created an array of objects where every object shared the same properties.
-I reinforced how arrays of objects are the foundation of many real-world applications.
-I continued improving my ability to organize code into small, single-purpose functions.
-I practiced traversing arrays of objects to answer different questions about the data.
-I learned that multiple properties can be combined to create more meaningful queries (for example, finding favorite games that I don't own).
-I reinforced the use of forEach(), filter(), map(), Math.max(), and .length when working with collections of objects.
-I practiced calculating statistics such as averages, counts, highest values, and longest durations from an object collection.
-I continued building the habit of organizing my program with a main() function.
+I practiced writing reusable search functions by passing parameters instead of hardcoding values.
+I learned that the same function can answer many different questions simply by changing the arguments passed to it.
+I reinforced using filter() to search arrays of objects based on one or more conditions.
+I practiced creating case-insensitive text searches using toLowerCase() with includes().
+I learned how to search numeric ranges using comparison operators.
+I combined multiple conditions to create more meaningful searches.
+I built my first recommendation system by filtering available games and choosing the highest-rated option that matched my criteria.
+I continued improving my ability to break problems into small, readable steps instead of trying to solve everything in one expression.
 JavaScript Concepts Practiced
-Object Design
-Creating consistent object structures
-Choosing meaningful property names
-Modeling real-world data
-Arrays of Objects
-Iterating through object collections
-Accessing object properties
-Keeping data structures consistent
+Function Parameters
+Passing strings, numbers, and ranges into functions.
+Making functions reusable instead of hardcoded.
 Array Methods
-forEach()
 filter()
-map()
-Calculations
-Counting matching objects
-Calculating averages
-Finding maximum values
-Handling multiple objects with the same maximum value
-Program Organization
-Single-responsibility functions
-Descriptive function names
-Separating data generation from program logic
-Using a main() function as the entry point
+forEach()
+sort()
+String Methods
+includes()
+toLowerCase()
+Searching Collections
+Exact matches
+Partial text matches
+Numeric comparisons
+Multiple-condition filtering
+Recommendation Logic
+Prioritizing results based on multiple rules.
+Sorting remaining candidates by rating.
+Selecting the best match from a filtered collection.
 Feedback From Review
 Things I Did Well
-Built a clean, consistent object model.
-Wrote functions with mostly single responsibilities.
-Used Math.max() with map() and filter() to correctly handle ties.
-Created an original custom function that combined multiple object properties to solve a useful problem.
-Organized the program well with a main() function.
+Used parameters correctly instead of hardcoding search values.
+Built clean, reusable search functions.
+Created a case-insensitive title search.
+Wrote an original recommendation function with logical decision-making.
+Organized filtering into readable steps that were easy to follow.
 Things To Improve
-Prefer filter() over forEach() with an if statement when filtering data.
-Keep function naming consistent.
-Avoid overly verbose comments or documentation.
-Continue thinking about separating "finding data" from "displaying data."
-Key Takeaway
+Watch for functions that begin taking on too many responsibilities.
+Remember that sort() modifies the original array.
+Continue thinking about whether comparisons should be inclusive or exclusive based on the requirements.
+Keep favoring readability before optimization.
+Key Takeaways
+Most real-world applications spend more time searching data than creating it.
+Passing parameters makes functions flexible and reusable.
+Complex problems often become easier by filtering data one step at a time.
+Readable code is usually more valuable than writing the shortest possible solution.
+Professor Notes
 
-The hardest part of programming isn't writing JavaScript. It's organizing data so solving problems becomes simple. Good object design makes every function that comes afterward easier to write and easier to understand.
+One of the biggest improvements I noticed this week was how I approached problems. Instead of immediately writing loops and if statements, I started thinking in terms of filtering collections and asking questions about the data. That shift in mindset is moving me closer to how professional JavaScript developers structure their code.
